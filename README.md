@@ -6,16 +6,18 @@ Some of my other works are concentrated on system identification based on matrix
 # Publications 
 Few of my published work is as follows: 
 1. `Hyperedge Prediction using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="http://kdd2019.cs.ucdavis.edu/">Tensor Methods for Emerging Data Science Challenges (TMEDSC)</a> workshop in <a href="https://www.kdd.org/kdd2019/">KDD 2019</a>.  
-2. Identification of Output-Error (OE) Models using Generalized Spectral Decomposition, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> 
-3. Identification of Errors-in-Variables models using dynamic iterative principal component analysis, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2018, Industrial & Engineering Chemistry Research, 57(35), pp.11939-11954. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b01374">[Paper]</a>   
-4. Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-1019.<a href="https://www.sciencedirect.com/science/article/pii/S2405896316305420">[Paper]</a>   
+2. `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> 
+3. `Identification of Errors-in-Variables models using dynamic iterative principal component analysis`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2018, Industrial & Engineering Chemistry Research, 57(35), pp.11939-11954. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b01374">[Paper]</a>   
+4. `Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-1019.<a href="https://www.sciencedirect.com/science/article/pii/S2405896316305420">[Paper]</a>   
 
 Some of the other works are under review. 
 
 # More Info
-<a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
+- <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
+- <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Full CV </a> <br>
 You can contact me on 
 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -47,3 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->

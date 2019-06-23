@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/d-maurya/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About me
+I am currently an MS (Reasearch) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a>. My research interests revolve around various machine learning problems. My current work is concentrated on analyzing hypergraphs by using tensor based representation. 
 
 ### Markdown
 

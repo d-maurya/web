@@ -5,9 +5,9 @@ Some of my other works are concentrated on system identification based on matrix
 
 # Publications 
 1. Hyperedge Prediction using Tensor Eigenvalue Decomposition 
-2. `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Link]</a> 
-3. `Identification of Errors-in-Variables models using dynamic iterative principal component analysis`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2018,  
-4. `Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-1019,  
+2. Identification of Output-Error (OE) Models using Generalized Spectral Decomposition, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> 
+3. Identification of Errors-in-Variables models using dynamic iterative principal component analysis, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2018, Industrial & Engineering Chemistry Research, 57(35), pp.11939-11954. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b01374">[Paper]</a>   
+4. Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-1019.<a href="https://www.sciencedirect.com/science/article/pii/S2405896316305420">[Paper]</a>   
 
 ### Markdown
 

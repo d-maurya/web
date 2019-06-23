@@ -14,8 +14,7 @@ Some of the other works are under review.
 
 # More Info
 - <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
-- <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Full CV </a> <br>
-You can contact me on 
+- <a href="https://github.com/d-maurya/cv_22march2019.pdf">Full CV </a> <br>
 
 <!---
 ### Markdown

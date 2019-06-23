@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Deepak Maurya
 description: M.S Scholar @ CSE Department, I.I.T Madras
+github:
+  is_project_page: false

@@ -1,7 +1,7 @@
 # About me
-I am currently an MS (Reasearch) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a> . My research interests revolve around various machine learning problems. My current work is concentrated on analyzing hypergraphs by using tensor based representation. 
+I am currently an MS (Reasearch) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
-Some of my other works are concentrated on system identification based on matrix factorization methods such as PCA or generalized spectral decomposition. I am fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> and <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for this work. 
+Some of my other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I am fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> and <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for this work. 
 
 # Publications 
 Few of my published work is as follows: 
@@ -13,8 +13,9 @@ Few of my published work is as follows:
 Some of the other works are under review. 
 
 # More Info
+- <a href="https://github.com/d-maurya/web/blob/master/cv_24june2019.pdf">Full CV </a> (Updated on 24 June 2019)<br> 
 - <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
-- <a href="https://github.com/d-maurya/web/blob/master/cv_22march2019.pdf">Full CV </a> <br>
+
 
 <!---
 ### Markdown

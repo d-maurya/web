@@ -1,5 +1,5 @@
 # About me
-<img align="left" height="240" src="https://github.com/d-maurya/web/blob/master/fb_dp.jpg" raw=true "Title">
+<img align="left" height="240" raw=true "Title" src="https://github.com/d-maurya/web/blob/master/fb_dp.jpg" >
 I am currently an MS (Reasearch) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
 Some of my other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I am fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> and <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for this work. 

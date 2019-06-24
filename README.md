@@ -15,7 +15,7 @@ Some of the other works are under review.
 # More Info
 - <a href="https://github.com/d-maurya/web/blob/master/cv_24june2019.pdf">Full CV </a> (Updated on 24 June 2019)<br> 
 - <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
-[Image](https://github.com/d-maurya/web/blob/master/fb_dp.jpg)
+![](https://github.com/d-maurya/web/blob/master/fb_dp.jpg)
 
 <!---
 ### Markdown

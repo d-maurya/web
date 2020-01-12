@@ -9,7 +9,7 @@ Some of my other works are focused on system identification using matrix factori
 # Publications 
 Few of my accepted work is as follows: 
 1. `Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification`, Vipul Mann, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2020, Industrial & Engineering Chemistry Research. <a href="https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561">[Paper]</a> 
-2. `Identification of MISO Systems in Minimal Realization Form`, Chaithanya Kumar Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2020, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS), IFAC
+2. `Identification of MISO Systems in Minimal Realization Form`, Chaithanya Kumar Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC
 3. `Hypergraph Partitioning using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="https://www.sets.parts/accepted-papers">Sets and Partitions </a> workshop in <a href="https://neurips.cc/">NeurIPS 2019</a>.
 4. `Hyperedge Prediction using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="http://kdd2019.cs.ucdavis.edu/">Tensor Methods for Emerging Data Science Challenges (TMEDSC)</a> workshop in <a href="https://www.kdd.org/kdd2019/">KDD 2019</a>.  
 5. `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> 
@@ -17,6 +17,11 @@ Few of my accepted work is as follows:
 7. `Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-1019.<a href="https://www.sciencedirect.com/science/article/pii/S2405896316305420">[Paper]</a>   
 
 Some of the other works are under review. 
+
+# News
+- Awarded travel grant to attend <a href = "https://cods-comad.in/">CoDS-COMAD 2020 </a> <br>
+- Awarded travel grant to attend <a href = "https://www.kdd.org/kdd2019/">KDD 2019 </a> <br>
+- Awaeded travel grant to attend <a href = "https://icc.org.in/2019/">ICC 2019</a> and Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>
 
 # Other Links
 - <a href="https://github.com/d-maurya/web/blob/master/cv_24june2019.pdf">Full CV </a> (Updated on 24 June 2019)<br> 

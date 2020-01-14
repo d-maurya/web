@@ -2,9 +2,9 @@
 <!---
 <img align="left" height="240" raw=true "Title" src="https://github.com/d-maurya/web/blob/master/fb_dp.jpg" >
 -->
-I am currently an MS (Reasearch) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
+I am currently an MS (Research) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
-Some of my other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I finished my Dual Degree (B.Tech + M.Tech) in Electrical Engineering from IIT Madras in 2016 where I was fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> for my final year project. I have also collaborated with <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for similar work on constrained model identification using modified PCA. 
+Some of the other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I finished my Dual Degree (B.Tech + M.Tech) in Electrical Engineering from IIT Madras in 2016 where I was fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> for my final year project. I have also collaborated with <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for similar work on constrained model identification using modified PCA. 
 
 # Publications 
 Few of my accepted work is as follows: 
@@ -21,7 +21,7 @@ Some of the other works are under review.
 # News
 - Awarded travel grant to attend <a href = "https://cods-comad.in/">CoDS-COMAD 2020 </a> <br>
 - Awarded travel grant to attend <a href = "https://www.kdd.org/kdd2019/">KDD 2019 </a> <br>
-- Awaeded travel grant to attend <a href = "https://icc.org.in/2019/">ICC 2019</a> and Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>
+- Awarded travel grant to attend <a href = "https://icc.org.in/2019/">ICC 2019</a> and Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>
 
 # Other Links
 - <a href="https://github.com/d-maurya/web/blob/master/cv_24june2019.pdf">Full CV </a> (Updated on 24 June 2019)<br> 

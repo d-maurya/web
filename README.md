@@ -2,6 +2,8 @@
 <!---
 <img align="left" height="240" raw=true "Title" src="https://github.com/d-maurya/web/blob/master/fb_dp.jpg" >
 -->
+I am currently looking for a PhD position broadly focused on theoretical machine learning. Please contact if there are any openings. 
+
 I am currently an MS (Research) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
 Some of the other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I finished my Dual Degree (B.Tech + M.Tech) in Electrical Engineering from IIT Madras in 2016 where I was fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> for my final year project. I have also collaborated with <a href="https://web.iitm.ac.in/ibse/team/Raghunathan-Rengaswamy.html"> Prof. Raghunathan Rengaswamy</a> for similar work on constrained model identification using modified PCA. 
@@ -9,7 +11,7 @@ Some of the other works are focused on system identification using matrix factor
 # Publications 
 Few of my accepted work is as follows: 
 1. `Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification`, Vipul Mann, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2020, Industrial & Engineering Chemistry Research. <a href="https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561">[Paper]</a> 
-2. `Identification of MISO Systems in Minimal Realization Form`, Chaithanya Kumar Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC
+2. `Identification of MISO Systems in Minimal Realization Form`, Chaithanya K. Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC
 3. `Hypergraph Partitioning using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="https://www.sets.parts/accepted-papers">Sets and Partitions </a> workshop in <a href="https://neurips.cc/">NeurIPS 2019</a>.
 4. `Hyperedge Prediction using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="http://kdd2019.cs.ucdavis.edu/">Tensor Methods for Emerging Data Science Challenges (TMEDSC)</a> workshop in <a href="https://www.kdd.org/kdd2019/">KDD 2019</a>.  
 5. `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2019, In 2019 Fifth Indian Control Conference (ICC) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> 

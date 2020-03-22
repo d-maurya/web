@@ -26,7 +26,7 @@ Some of the other works are under review.
 - Awarded travel grant to attend <a href = "https://icc.org.in/2019/">ICC 2019</a> and Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>
 
 # Other Links
-- <a href="https://github.com/d-maurya/web/blob/master/cv_jan2020.pdf">Full CV </a> (Updated on Jan 2020)<br> 
+- <a href="https://github.com/d-maurya/web/blob/master/cv_march2020.pdf">Full CV </a> (Updated on Jan 2020)<br> 
 - <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
 
 <!---

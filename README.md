@@ -10,7 +10,7 @@ Some of the other works are focused on system identification using matrix factor
 
 # Publications 
 Few of my accepted work is as follows: 
-1. `ARX Model Identification using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>.) 
+1. `ARX Model Identification using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) 
 2. `Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification`, Vipul Mann, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2020, Industrial & Engineering Chemistry Research, 59(5), pp.1953-65 <a href="https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561">[Paper]</a> 
 3. `Identification of MISO Systems in Minimal Realization Form`, Chaithanya K. Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC
 4. `Hypergraph Partitioning using Tensor Eigenvalue Decomposition`, **Deepak Maurya**, Balaraman Ravindran, Shankar Narasimhan: The work is accepted for a poster presentation in <a href="https://www.sets.parts/accepted-papers">Sets and Partitions </a> workshop in <a href="https://neurips.cc/">NeurIPS 2019</a>.
@@ -27,7 +27,7 @@ Some of the other works are under review.
 - Awarded travel grant to attend <a href = "https://icc.org.in/2019/">ICC 2019</a> and Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>
 
 # Other Links
-- <a href="https://github.com/d-maurya/web/blob/master/cv_march2020.pdf">Full CV </a> (Updated on Jan 2020)<br> 
+- <a href="https://github.com/d-maurya/web/blob/master/cv_may2020.pdf">Full CV </a> (Updated on Jan 2020)<br> 
 - <a href="https://scholar.google.com/citations?user=ivfff6wAAAAJ">Google Scholar Profile</a> <br>
 
 <!---

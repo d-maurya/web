@@ -10,7 +10,7 @@ Some of the other works are focused on system identification using matrix factor
 
 # Publications 
 Some of my works under review:
-1. `Incorporating prior knowledge about structural constraints in model identification`, **Deepak Maurya**, Sivadurgaprasad Chinta, Abhishek Sivaram, and Raghunathan Rengaswamy, <a href="https://arxiv.org/abs/2007.04030">[Arxiv]</a>
+1. `Incorporating prior knowledge about structural constraints in model identification`, **Deepak Maurya**, Sivadurgaprasad Chinta, Abhishek Sivaram, and Raghunathan Rengaswamy <a href="https://arxiv.org/abs/2007.04030">[Arxiv Link]</a>
 
 Few of my accepted work is as follows: 
 1. `ARX Model Identification using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) 
@@ -22,7 +22,7 @@ Few of my accepted work is as follows:
 7. `Identification of Errors-in-Variables models using dynamic iterative principal component analysis`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2018, Industrial & Engineering Chemistry Research, 57(35), pp.11939-54. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b01374">[Paper]</a>   
 8. `Identification of Linear Dynamic Systems using Dynamic Iterative Principal Component Analysis`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2016, IFAC-PapersOnLine, 49(7), pp.1014-19.<a href="https://www.sciencedirect.com/science/article/pii/S2405896316305420">[Paper]</a>   
 
-Some of the other works are under review. 
+Manuscript is under preparation for some other works. 
 
 # News
 - Awarded travel grant to attend <a href = "https://cods-comad.in/">CoDS-COMAD 2020 </a> <br>

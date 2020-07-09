@@ -9,6 +9,9 @@ I am currently an MS (Research) scholar under the guidance of <a href="http://ww
 Some of the other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I finished my Dual Degree (B.Tech + M.Tech) in Electrical Engineering from IIT Madras in 2016 where I was fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> for my final year project. I have also collaborated with <a href="https://scholar.google.co.in/citations?user=WOCWpzwAAAAJ&hl=en"> Prof. Raghunathan Rengaswamy</a> for similar work on constrained model identification using modified PCA. 
 
 # Publications 
+Some of my works under review:
+1. `Incorporating prior knowledge about structural constraints in model identification`, **Deepak Maurya**, Sivadurgaprasad Chinta, Abhishek Sivaram, and Raghunathan Rengaswamy, <a href="https://arxiv.org/abs/2007.04030">[Arxiv]</a>
+
 Few of my accepted work is as follows: 
 1. `ARX Model Identification using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) 
 2. `Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification`, Vipul Mann, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, 2020, Industrial & Engineering Chemistry Research, 59(5), pp.1953-65 <a href="https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561">[Paper]</a> 

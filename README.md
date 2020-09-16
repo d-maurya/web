@@ -4,6 +4,8 @@
 -->
 I am currently looking for a PhD position broadly focused on theoretical machine learning. Please contact if there are any openings. 
 
+**Latest News**: We are organizing a <a href="https://sites.google.com/view/gclr2021/">Graphs & more Complex structures for Learning & Reasoning </a> (GCLR) workshop at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>
+
 I am currently an MS (Research) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
 Some of the other works are focused on system identification using matrix factorization methods such as PCA or generalized spectral decomposition. I finished my Dual Degree (B.Tech + M.Tech) in Electrical Engineering from IIT Madras in 2016 where I was fortunate to collaborate with <a href="http://arunkt.wixsite.com/homepage"> Prof. Arun K. Tangirala</a>, <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> for my final year project. I have also collaborated with <a href="https://scholar.google.co.in/citations?user=WOCWpzwAAAAJ&hl=en"> Prof. Raghunathan Rengaswamy</a> for similar work on constrained model identification using modified PCA. 

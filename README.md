@@ -4,7 +4,7 @@
 -->
 I am currently looking for a PhD position broadly focused on theoretical machine learning. Please contact if there are any openings. 
 
-**Latest News**: We are organizing a <a href="https://sites.google.com/view/gclr2021/">Graphs & more Complex structures for Learning & Reasoning </a> (GCLR) workshop at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>
+**Latest News**: We are organizing <a href="https://sites.google.com/view/gclr2021/">Graphs & more Complex structures for Learning & Reasoning </a> (GCLR) workshop at <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>
 
 I am currently an MS (Research) scholar under the guidance of <a href="http://www.cse.iitm.ac.in/~ravi/"> Prof. Balaraman Ravindran</a> and <a href="http://www.che.iitm.ac.in/~naras/"> Prof. Shankar Narasimhan</a> at <a href="http://www.cse.iitm.ac.in/"> CSE department, IIT Madras</a>. I am also associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/"> (RBCDSAI)</a>, IIT Madras. My research interests revolve around various machine learning problems. My current work is concentrated on spectral hypergraph theory using tensor representation of hypergraphs. 
 
